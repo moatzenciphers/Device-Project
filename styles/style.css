@@ -863,6 +863,7 @@ a.button--yellow {
 .slider__next {
     position: absolute;
     top: 210px;
+    z-index: 11;
 
     height: 60px;
     width: 20px;
