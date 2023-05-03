@@ -22,3 +22,5 @@
 ## Скриншот страницы раздела каталога
 
 ![127 0 0 1_5500_catalog html](https://user-images.githubusercontent.com/70944450/235687124-2b48f494-2af6-4a65-8f9b-6d91171e74d7.png)
+
+Ссылка на GitHub Pages: https://moatzenciphers.github.io/Device-Project/
