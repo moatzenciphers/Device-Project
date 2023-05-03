@@ -3,7 +3,7 @@
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 800;
-    src: url('/fonts/raleway/Raleway-ExtraBold.woff2') format('woff2');
+    src: url('../fonts/raleway/Raleway-ExtraBold.woff2') format('woff2');
     font-display: swap;
 }
 
@@ -12,7 +12,7 @@
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 700;
-    src: url('/fonts/rubik/Rubik-Bold.woff2') format('woff2');
+    src: url('../fonts/rubik/Rubik-Bold.woff2') format('woff2');
     font-display: swap;
 }
 
@@ -20,7 +20,7 @@
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 800;
-    src: url('/fonts/rubik/Rubik-ExtraBold.woff2') format('woff2');
+    src: url('../fonts/rubik/Rubik-ExtraBold.woff2') format('woff2');
     font-display: swap;
 }
 
@@ -28,7 +28,7 @@
     font-family: 'Rubik';
     font-style: normal;
     font-weight: 400;
-    src: url('/fonts/rubik/Rubik-Regular.woff2') format('woff2');
+    src: url('../fonts/rubik/Rubik-Regular.woff2') format('woff2');
     font-display: swap;
 }
 
@@ -336,7 +336,7 @@ a.button--yellow {
     background-color: inherit;
     border-radius: 50px 0 0 50px;
 
-    background-image: url('/image/svg/search.svg');
+    background-image: url('../image/svg/search.svg');
     background-repeat: no-repeat;
     background-position: left 14px top 50%;
     background-size: 16px;
@@ -491,7 +491,7 @@ a.button--yellow {
     width: 10px;
     height: 12px;
 
-    background-image: url('/image/svg/compare.svg');
+    background-image: url('../image/svg/compare.svg');
     background-repeat: no-repeat;
 
     content: '';
@@ -530,7 +530,7 @@ a.button--yellow {
     width: 18px;
     height: 14px;
 
-    background-image: url('/image/svg/basket.svg');
+    background-image: url('../image/svg/basket.svg');
     background-repeat: no-repeat;
 
     content: '';
@@ -560,7 +560,7 @@ a.button--yellow {
     width: 15px;
     height: 12px;
 
-    background-image: url('/image/svg/login.svg');
+    background-image: url('../image/svg/login.svg');
     background-repeat: no-repeat;
 
     content: '';
@@ -707,7 +707,7 @@ a.button--yellow {
     border-radius: 50%;
 
     background-color: inherit;
-    background-image: url('/image/svg/plus.svg');
+    background-image: url('../image/svg/plus.svg');
     background-repeat: no-repeat;
     background-position: center center;
 
@@ -900,13 +900,13 @@ a.button--yellow {
 .slider__prev {
     margin-left: 30px;
 
-    background-image: url('/image/svg/arrow.svg');
+    background-image: url('../image/svg/arrow.svg');
 }
 
 .slider__next {
     right: 20px;
 
-    background-image: url('/image/svg/arrow.svg');
+    background-image: url('../image/svg/arrow.svg');
 
     transform: rotate(180deg);
 }
@@ -1237,7 +1237,7 @@ a.button--yellow {
 
     text-align: center;
 
-    background-image: url('/image/svg/rare-good-car.svg');
+    background-image: url('../image/svg/rare-good-car.svg');
     background-repeat: no-repeat;
     background-position: center;
     background-color: #FFE17F;
@@ -1584,7 +1584,7 @@ a.button--yellow {
     height: 14px;
     margin-right: 16px;
 
-    background-image: url('/image/svg/free-arrow.svg');
+    background-image: url('../image/svg/free-arrow.svg');
     background-size: 14px 14px;
 
     content: '';
@@ -1886,7 +1886,7 @@ a.button--yellow {
     height: 7px;
     margin-left: 16px;
 
-    background-image: url('/image/svg/bread-arrow.svg');
+    background-image: url('../image/svg/bread-arrow.svg');
     opacity: 0.2;
 
     content: '';
@@ -2128,7 +2128,7 @@ a.button--yellow {
 
     background-repeat: no-repeat;
     background-position: center;
-    background-image: url('/image/svg/checkbox.svg');
+    background-image: url('../image/svg/checkbox.svg');
 
     content: '';
 }
